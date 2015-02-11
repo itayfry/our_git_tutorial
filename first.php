@@ -6,7 +6,7 @@
  * Time: 10:07 PM
  */
 
-// dev 1
+// dev 2 feature branch
 function doSomething(){
     echo "I didn't have a lot of time to think of a better function";
 }
