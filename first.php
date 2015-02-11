@@ -7,5 +7,5 @@
  */
 
 function doSomething(){
-    echo "I didn't have time to think of a better function";
+    echo "I didn't have a lot of time to think of a better function";
 }
