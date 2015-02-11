@@ -10,4 +10,4 @@
 function doSomething(){
     echo "I didn't have a lot of time to think of a better function";
 }
-// master comment
+// stam feature branch
